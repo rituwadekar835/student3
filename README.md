@@ -8,7 +8,7 @@ It demonstrates basic CRUD operations:
 - *Update* student details  
 - *Delete* a student  
 
-## Features
+# Features
 
 - Simple and easy-to-understand PHP code  
 - MySQL database integration  
