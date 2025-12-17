@@ -34,10 +34,14 @@ if (isset($_POST['register'])) {
 <html>
 <head>
     <title>Register</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
 </head>
 <body>
 
-<h2>Register</h2>
+<h1>Register</h1>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
 
 <?php if($error!="") echo "<p style='color:red'>$error</p>"; ?>
 
