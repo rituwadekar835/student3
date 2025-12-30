@@ -67,12 +67,7 @@ Create a professional and mobile-friendly UI using Bootstrap or Tailwind CSS.
 - Responsive dashboard (Desktop + Mobile)
 - Navigation bar
 - Profile section
-- CSS improvements for better UI
-
-## Screenshots
-![Dashboard Dekstop View](TASK/3.png)
-\n
-![Dashboard Mobile View](TASK3/5.png)
+- CSS improvements for better 
 
 
 ## Notes
