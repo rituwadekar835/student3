@@ -99,8 +99,8 @@ Deploy the web application on free hosting and test deployment.
 ![Hosting Control Panel with File Manager](screenshot/TASK4/2025-1230 140626.png)
 
 
-![Live Website](screenshot/task4/index.png)
-![Live Website](screenshot/task4/register.png)
+![Live Website](https://ritu.infinityfreeapp.com/task1/index.php)
+![Live Website](https://ritu.infinityfreeapp.com/task2/register.php)
 
 ## Live Website
 task 1[Click here to open the live website](https://student3.infinityfreeapp.com/task1/index.php) 
