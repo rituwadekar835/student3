@@ -94,7 +94,7 @@ Deploy the web application on free hosting and test deployment.
 
 ## Screenshots
 ![Hosting Dashboard](TASK4/1.png)
-![Hosting Control Panel with File Manager](screenshot/TASK4/2025-1230140626.png)
+
 
 
 ![Live Website](https://ritu.infinityfreeapp.com/task1/index.php)
