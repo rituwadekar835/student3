@@ -33,11 +33,9 @@ Implement Create, Read, Update, Delete (CRUD) operations using PHP and MySQL.
 
 ## Screenshots
 ![Add records](TASK1/1.png)
-![View Records](screenshot/task1/create-success.png)
-![Edit Record](screenshot/task1/edit.png)
-![Update Record](screenshot/task1/update.png)
-![Before Delete Record](screenshot/task1/delete-before.png)
-![After Delete Record](screenshot/task1/delete-after.png)
+
+![Edit Record](TASK1/2.png)
+
 
 ## Note:
 All CRUD operations have been implemented and tested on local server.
@@ -54,11 +52,10 @@ Implement secure login and logout functionality using PHP and sessions.
 - Redirect to login page after logout
 
 ## Screenshots
-![Register Page](screenshot/task2/register.png)
-![Register-success Page](screenshot/task2/register-success.png)
-![Login Page](screenshot/task2/login.png)
-![Dashboard After Login](screenshot/task2/dashboard.png)
-![Logout Redirect](screenshot/task2/logout.png)
+![Register Page](TASK2/Screenshot 2025-12-16 193450.png)
+![Login Page](TASK2/Screenshot 2025-12-16 193642.png)
+![Dashboard After Login](TASK2/Screenshort 2025-12-16 193658.png)
+
 
 ## Note:
 User authentication is done with PHP sessions. Logout redirects to login page automatically.
@@ -76,9 +73,9 @@ Create a professional and mobile-friendly UI using Bootstrap or Tailwind CSS.
 - CSS improvements for better UI
 
 ## Screenshots
-![Dashboard Dekstop View](screenshot/task3/dashboard-dekstop.png)
+![Dashboard Dekstop View](TASK/3.png)
 \n
-![Dashboard Mobile View](screenshot/task3/dashboard-mobile.png)
+![Dashboard Mobile View](TASK3/5.png)
 
 
 ## Notes
@@ -98,17 +95,16 @@ Deploy the web application on free hosting and test deployment.
 - Hosting dashboard proof
 
 ## Screenshots
-![Hosting Dashboard](screenshot/task4/hosting-dashboard.png)
-![Hosting Control Panel with File Manager](screenshot/task4/hosting-control-panel-task1.png)
-![Hosting Control Panel with File Manager](screenshot/task4/hosting-control-panel-task2.png)
-![Database Import student table](screenshot/task4/database-import-student.png)
-![Database Import user table](screenshot/task4/database-import-user.png)
+![Hosting Dashboard](TASK4/1.png)
+![Hosting Control Panel with File Manager](screenshot/TASK4/2025-1230 140626.png)
+
+
 ![Live Website](screenshot/task4/index.png)
 ![Live Website](screenshot/task4/register.png)
 
 ## Live Website
-task 1[Click here to open the live website](https://student-crud.infinityfreeapp.com/task1/index.php) 
-task 2[Click here to open the live website](https://student-crud.infinityfreeapp.com/task2/register.php)
+task 1[Click here to open the live website](https://student3.infinityfreeapp.com/task1/index.php) 
+task 2[Click here to open the live website](https://student3.infinityfreeapp.com/task2/register.php)
 
 ## Notes
 - File Manager shows uploaded project files.
