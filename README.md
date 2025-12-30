@@ -51,7 +51,6 @@ Implement secure login and logout functionality using PHP and sessions.
 - Logout functionality with session destruction
 - Redirect to login page after logout
 
-## Screenshots
 
 
 
